@@ -2,11 +2,12 @@
 using namespace std;
 
 int main() {
-/*
+
     int a = 'a';
     cout << a << endl;
-    char ch1 = 123456;
-    cout << ch1 <<endl; 
+    // char ch1 = 1;
+    // cout << ch1 <<endl; 
+    /*
     char ch = 123456;
     cout << ch <<endl; 
 
@@ -54,6 +55,6 @@ int main() {
     cout << forth << endl;
     
 */
-    int a=0;
-    cout << !a <<endl;
+    // int a=0;
+    // cout << !a <<endl;
 }
