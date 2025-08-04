@@ -17,8 +17,8 @@ This file tracks my learning progress through the CodeHelp DSA + C++ Playlist on
 - [x] Intro to Programming & Flowcharts
 - [x] Write Your First C++ Program
 - [x] If‑Else, While Loops & Patterns
-- [ ] Pattern Practice (✅ current topic)
-- [ ] Bitwise Operators, `for` Loops, Scope
+- [x] Pattern Practice
+- [ ] Bitwise Operators, `for` Loops, Scope (✅ current topic)
 - [ ] Binary & Decimal Numbers
 - [ ] LeetCode Problem Solving (Intro)
 - [ ] Switch Statements & Functions
@@ -78,7 +78,7 @@ This file tracks my learning progress through the CodeHelp DSA + C++ Playlist on
 ---
 
 ## 🟩 Last Updated
-**August 3, 2025**
+**August 4, 2025**
 
 ---
 
