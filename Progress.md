@@ -18,8 +18,8 @@ This file tracks my learning progress through the CodeHelp DSA + C++ Playlist on
 - [x] Write Your First C++ Program
 - [x] If‑Else, While Loops & Patterns
 - [x] Pattern Practice
-- [ ] Bitwise Operators, `for` Loops, Scope (✅ current topic)
-- [ ] Binary & Decimal Numbers
+- [x] Bitwise Operators, `for` Loops, Scope
+- [ ] Binary & Decimal Numbers (✅ current topic)
 - [ ] LeetCode Problem Solving (Intro)
 - [ ] Switch Statements & Functions
 - [ ] Introduction to Arrays in C++
